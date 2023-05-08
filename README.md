@@ -20,6 +20,8 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 - 🔭 I’m currently studying on **becoming a frontend developer**.
 
+- 🏫I'm currently studying Computer Science at Cavendish University.
+
 - 🎗️ I'm currently taking Full Stack Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
 
 - 🌱 I’m currently learning **HTML-CSS and JS**.
