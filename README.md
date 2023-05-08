@@ -80,15 +80,6 @@ I'm a software engineering student with a passion for web programming. My goal i
 </div>
 
 <br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "center">
-
-![Stats Overview](https://raw.githubusercontent.com/AliDurul/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/AliDurul/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-<br>
 
 
 
