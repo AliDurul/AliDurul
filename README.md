@@ -1,14 +1,12 @@
 <!-- Banner 20232A -->
-![Banner-dark-mode](https://user-images.githubusercontent.com/90595158/224519176-25966d34-9593-4f48-8216-9d9ba80eb586.png#gh-dark-mode-only)
-![Banner-light-mode-test](https://user-images.githubusercontent.com/90595158/221481850-84df7f4c-2193-445d-9aba-d4eee0be7f5c.png#gh-light-mode-only)
 
+![github-header-image (2)](https://user-images.githubusercontent.com/80897590/236746270-bd4ed777-9574-4840-adca-785d99f68aa7.png)
 
 <p align="center">
 I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
 ##
-
 <br>
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
@@ -22,7 +20,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 - 🔭 I’m currently studying on **becoming a software engineer**.
 
-- 🌱 I’m currently learning **Kotlin**.
+- 🌱 I’m currently learning **Javascript and its Frameworks**.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/MelvinAguilar)!.
 
@@ -142,7 +140,21 @@ I'm a software engineering student with a passion for web programming. My goal i
 </details>
 
 </div>
+<br>
+<h2 align="center"> My projects</h2>
 
+
+  Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[Xe Currency Converter](https://delicate-cactus-177fe6.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/currency_converter)</h3> | HTML, CSS, NODEJS, REACTJS, API |![currency_converter](https://github.com/DurmusFurkanOzkan/currency_converter/blob/master/currency_gif.gif)
+[Weather Project]() <h3>[Repo](https://github.com/DurmusFurkanOzkan/WeatherProject)</h3> | HTML, CSS, NODEJS, EXPRESSJS, EJS |![Weather Project](https://github.com/DurmusFurkanOzkan/WeatherProject/blob/main/Weather_Project_Gif.gif)
+[Pomodoro Project](https://beautiful-torrone-52c4e9.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Pomodoro_Project)</h3> | HTML, CSS, REACTJS |![Pomodoro Project](https://github.com/DurmusFurkanOzkan/Pomodoro_Project/blob/main/Pomodoro_Gif.gif)
+[Simon Game](https://idyllic-rolypoly-798e83.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/SimonGame)</h3> | HTML, CSS, JS |![Simon Game](https://github.com/DurmusFurkanOzkan/SimonGame/blob/main/Simon_Game_Gif.gif)
+[Drum Kit](https://lively-brioche-f02716.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/DrumKit)</h3> | HTML, CSS, JS |![Drum Kit](https://github.com/DurmusFurkanOzkan/DrumKit/blob/main/Drum_Kit_Gif.gif)
+[Dicee Game](https://sparkly-profiterole-cfb566.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Dicee_Game)</h3> | HTML, CSS, JS | ![Dicee Game](https://github.com/DurmusFurkanOzkan/Dicee_Game/blob/main/Dicee_Game_Gif.gif)
+[Tindog Project](https://dulcet-jelly-104d12.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/TindogProject)</h3> | HTML, CSS, BOOTSTRAP | ![Tindog Project](https://github.com/DurmusFurkanOzkan/TinDogProject/blob/main/Tindog_Gif.gif)
+[Netflix Survey Form](https://master--subtle-bublanina-8cf6c4.netlify.app/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Netflix_Survey_Form)</h3> | HTML, CSS JS |![Netflix Survey Form](https://github.com/DurmusFurkanOzkan/Netflix_Survey_Form/blob/master/netlify_survey_form_gif.gif)
+[Basic Portfolio Page](https://durmusfurkanozkan.github.io/Basic_Portfolio_Page/) <h3>[Repo](https://github.com/DurmusFurkanOzkan/Basic_Portfolio_Page)</h3> | HTML, CSS |![Basic_Portfolio_Page](https://github.com/DurmusFurkanOzkan/Basic_Portfolio_Page/blob/master/basic_portfolio_page.gif)
 
 <br>
 
