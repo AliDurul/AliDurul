@@ -68,7 +68,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 <div align = "center">
     
 [![Gmail: Ali Durul](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:alidrl26@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DURUL-26)]([https://www.frontendmentor.io/profile/MelvinAguilar](https://www.frontendmentor.io/profile/DURUL-26))&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DURUL-26)]([https://www.frontendmentor.io/profile/DURUL-26](https://www.frontendmentor.io/profile/DURUL-26))&nbsp;
 [![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=)]()
 <br>
 [![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=)]()&nbsp;
@@ -82,8 +82,8 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 <div align = "center">
 
-![Stats Overview](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/MelvinAguilar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Stats Overview](https://raw.githubusercontent.com/AliDurul/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Most Used Languages](https://raw.githubusercontent.com/AliDurul/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
 <br>
@@ -168,7 +168,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=MelvinAguilar&theme=radical&hide_border=true" alt="MelvinAguilar" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=AliDurul&theme=radical&hide_border=true" alt="AliDurul" width="390"/>
 </p>
 </details>
 
@@ -176,36 +176,18 @@ I'm a software engineering student with a passion for web programming. My goal i
 <summary><b>🏆 Github Trophies</b></summary>
 <br>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MelvinAguilar&theme=discord" alt="MelvinAguilar" />
+<img src="https://github-profile-trophy.vercel.app/?username=AliDurul&theme=discord" alt="AliDurul" />
 </p>
 </details>
 
-<details>
-<summary><b>📚 Projects</b></summary>
-<br>
-<p align="left">
-<!-- BLOG-POST-LIST:START -->
-<a href="https://github.com/MelvinAguilar/intro-section-with-dropdown-navigation"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=intro-section-with-dropdown-navigation&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Intro section with dropdown navigation solution"></a>
-<a href="https://github.com/MelvinAguilar/nft-preview-card-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=nft-preview-card-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="nft-preview-card-component"></a>
-<a href="https://github.com/MelvinAguilar/bookmark-landing-page"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=bookmark-landing-page&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="bookmark-landing-page"></a>
-<a href="https://github.com/MelvinAguilar/ping-single-column-coming-soon-page"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=ping-single-column-coming-soon-page&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="ping-single-column-coming-soon-page"></a>
-<a href="https://github.com/MelvinAguilar/TravelGo"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=TravelGo&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="TravelGo"></a>
-<a href="https://github.com/MelvinAguilar/portafolio-desarrollo-web"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=MelvinAguilar&repo=portafolio-desarrollo-web&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="portafolio-desarrollo-web"></a>
-  
-  
-
-
-<!-- BLOG-POST-LIST:END -->
-</p>
-</details>
 
 <details>
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MelvinAguilar&show_icons=true&theme=radical&count_private=true" alt="MelvinAguilar" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelvinAguilar&layout=compact&theme=radical" alt="MelvinAguilar" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=AliDurul&show_icons=true&theme=radical&count_private=true" alt="AliDurul" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDurul&layout=compact&theme=radical" alt="AliDurul" height="165">
 </p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=MelvinAguilar.MelvinAguilar">
+<img src="https://visitor-badge.glitch.me/badge?page_id=AliDurul.AliDurul">
 </details>
   
   
