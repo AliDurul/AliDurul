@@ -18,13 +18,15 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 
 
-- 🔭 I’m currently studying on **becoming a software engineer**.
+- 🔭 I’m currently studying on **becoming a frontend developer**.
 
-- 🌱 I’m currently learning **Javascript and its Frameworks**.
+- 🎗️ I'm currently taking Full Stack Development Course at [**Clarusway**](https://clarusway.com/full-stack-developer/)
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/MelvinAguilar)!.
+- 🌱 I’m currently learning **HTML-CSS and JS**.
 
-- 📫 How to reach me: **melvinaguilarhdz@gmail.com**.
+- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/DURUL-26)!.
+
+- 📫 How to reach me: **alidrl26@gmail.com**.
 
 - 💬 Ask me about **HTML and CSS**.
 
@@ -37,12 +39,13 @@ I'm a software engineering student with a passion for web programming. My goal i
 <br>
 
 ## 🏆 Goals
-
-- 📖 Learn the basics of **Kotlin** programming language
-- 📱 Build a simple mobile app using **Kotlin** and **Android Studio**.
-- 🚀 Gain experience in developing full-stack applications using **React** and **Node.js**.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+- 🏁 Finishing the Course 'how to become Frontend Developer'.
+- 🚀 Gain experience in developing Web site application using.
+- 📖 Learn the of **HTML-CSS and JS** programming languages
+- 📱 Build a simple web applications.
+
 
 ## 🎯 Future Goals
 
@@ -52,7 +55,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 ## 📈 Achievements
 
-- 🎉 I have successfully completed over 20 projects on Frontend Mentor and shared my code with others.
+- 🎉 I have successfully completed over 3 projects on Frontend Mentor and shared my code with others.
 - 🤝 I have provided feedback on projects on Frontend Mentor website.
 
 
