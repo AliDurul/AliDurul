@@ -57,13 +57,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 
 <div align = "center">
     
-[![Gmail: Ali Durul](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:alidrl26@gmail.com)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/DURUL-26)]([https://www.frontendmentor.io/profile/DURUL-26](https://www.frontendmentor.io/profile/DURUL-26))&nbsp;
-[![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white&link=)]()
-<br>
-[![Linktree](https://img.shields.io/badge/-Linktree-39e09b?&style=for-the-badge&logo=linktree&logoColor=white&link=)]()&nbsp;
-[![FreeCodeCamp](https://img.shields.io/badge/-FreeCodeCamp-0A0A23?style=for-the-badge&logo=FreeCodeCamp&logoColor=white&link=)]()&nbsp;
-[![Linkedin: Ali Durul](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/melvin-aguilar-dev](https://www.linkedin.com/in/ali-durul-851511151/))](https://www.linkedin.com/in/ali-durul-851511151/)
+
   
 </div>
 
