@@ -11,7 +11,7 @@ I'm a software engineering student with a passion for web programming. My goal i
 <br>
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 
-<picture> <img align="right" alt="GIF" src = "./assets/programming/about_me.gif" width="360px ></picture>
+<picture> <img align="right" alt="GIF" src = "./assets/img/Programming.gif" width="360px ></picture>
 
 <br>
 
