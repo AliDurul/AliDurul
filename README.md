@@ -1,18 +1,17 @@
 <h1 align="center"><b>Hi, I'm Ali Durul </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=25&pause=1000&color=00FFFF&vCenter=true&width=800&height=100&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Front+End+Developer.;%F0%9F%93%91+Studying+on+being+Full+Stack+Developer.+;%F0%9F%8E%93+About+to+graduate+from+Software+Engineering.;%F0%9F%92%9A+Love+to+learn+new+stuffs." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=25&pause=1000&color=1E88E5&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Front+End+Developer.;%F0%9F%93%91+Studying+on+being+Full+Stack+Developer.+;%F0%9F%8E%93+About+to+graduate+from+Software+Engineering.;%F0%9F%92%99+Love+to+learn+new+stuffs." alt="Typing SVG" /></a>
 
 
-## <picture> <img src = "./assets/images/about_me.gif" width = 50px></picture> **About me**
+## <picture> <img src = "./assets/img/about_me.gif" width = 50px></picture> **About me**
+
 <p align="center">
 I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
-##
+
 <br>
-
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
+<picture> <img align="right" alt="GIF" src = "./assets/programming/about_me.gif" width="360px ></picture>
 
 <br>
 
