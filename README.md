@@ -8,8 +8,8 @@
 Hello, and welcome to my GitHub profile! I'm a software engineering student with a passion for web programming. My goal is to develop scalable, maintainable and user-friendly web applications that provide a seamless user experience. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
 </p>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selman-sahbudak-8a0a4a22b/)
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melvinaguilarhdz@gmail.com)](mailto:melvinaguilarhdz@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-durul-851511151/)
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:alidrl26@gmail.com)
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
 <picture>
   <source media="(max-width: 767px)" srcset="">
@@ -23,7 +23,7 @@ Hello, and welcome to my GitHub profile! I'm a software engineering student with
 - I’m currently learning **React**.
 - Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/DURUL-26)!.
 - How to reach me: **alidrl26@gmail.com**.
-- Ask me anything about **Front-End Programming languages and Tools **.
+- Ask me anything about **Front-End Programming languages and Tools**.
 - I’m looking for help in learning about **Accessible Websites**.
 - I’m looking to collaborate on **developing new open-source projects**.
 
