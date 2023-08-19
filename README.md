@@ -29,7 +29,7 @@ Hello, and welcome to my GitHub profile! I'm a software engineering student with
 
 ![](https://komarev.com/ghpvc/?username=AliDurul&color=blue&style=for-the-badge)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
+<img width="200px" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
