@@ -42,13 +42,13 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind,sass,styledcomponents,c,css,figma,firebase,github,html,java,js,linux,materialui,mysql,postman,py,react,redux,ts,vercel,vite,vscode&perline=15" />
   </a>
 </p>
-<!--tech stack icons
+
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/bengin34/bengin34/assets/118957608/6b9a6dfb-652b-4064-a630-639e7bcceb3a)
+[Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist | ![Video_230828220751](https://github.com/AliDurul/AliDurul/assets/80897590/855a5dd3-9615-4002-91d4-c3664a2635c8)
 [w3yz Galeri Page](https://w3yz-task.vercel.app/)| React, Tailwind CSS, Figma|![happygallery](https://github.com/bengin34/bengin34/assets/118957608/03d62da6-c6cf-4af5-bd89-fa5ca4d6342a)
--->
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
