@@ -32,7 +32,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
@@ -66,7 +66,12 @@
 
 
 
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
+
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block"> More About Me on GitHub👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 
 
 <details>
