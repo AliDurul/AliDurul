@@ -62,7 +62,7 @@
 [Movie-Info-Card](https://movie-info-card-seven.vercel.app)| React, Bootstrap, Js|![movieCard](https://github.com/AliDurul/Movie-Info_card/assets/80897590/91e307dd-7183-4410-bf3a-f30496306b48)
 [Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css - Js | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
 [Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css - Js | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
-[w3yz Galeri Page](https://w3yz-task.vercel.app/)| React, Tailwind CSS, Figma|![happygallery](https://github.com/bengin34/bengin34/assets/118957608/03d62da6-c6cf-4af5-bd89-fa5ca4d6342a)
+
 
 
 
