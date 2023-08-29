@@ -51,7 +51,7 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist | ![Video_230828220751](https://github.com/AliDurul/AliDurul/assets/80897590/855a5dd3-9615-4002-91d4-c3664a2635c8)
+[Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css - Js | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
 [w3yz Galeri Page](https://w3yz-task.vercel.app/)| React, Tailwind CSS, Figma|![happygallery](https://github.com/bengin34/bengin34/assets/118957608/03d62da6-c6cf-4af5-bd89-fa5ca4d6342a)
 
 
