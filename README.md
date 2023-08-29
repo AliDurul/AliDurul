@@ -43,7 +43,12 @@
   </a>
 </p>
 
-## My projects
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">My Projects⚒💻</h2></summary>
+  </ul>
+</div>
+
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
 [Redux Django Blog App](https://django-redux-blog-app.vercel.app/)| React, React Redux, Material UI, Formik, Yup, Persist | ![Video_230828220751](https://github.com/AliDurul/AliDurul/assets/80897590/855a5dd3-9615-4002-91d4-c3664a2635c8)
