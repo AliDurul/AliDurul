@@ -51,11 +51,22 @@
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
+[Lee-Library](https://tailwind-shopping-cartt.vercel.app)| React, StyledComponent CSS, Context Api, ApiServer|![LeeLibrirary](https://github.com/AliDurul/Lee-Library/assets/80897590/76766085-6395-4bbd-a285-6acbaab5bedc)
+[Shopping-Cart](https://tailwind-shopping-cartt.vercel.app)| React, Tailwind CSS, Context Api, ApiServer|![shoppingCart](https://github.com/AliDurul/Shopping-Cart/assets/80897590/d492d45f-b971-4a68-817e-a9d18a53cdbb)
+[Random-User-Generator](https://random-user-generator-app.vercel.app)| React, Bootstrao, Js|![randomUser](https://github.com/AliDurul/Random-User-Generator-App/assets/80897590/9ba3910e-2aa0-4b81-ad5d-6df206ae02cd)
+[NBA-Legends](https://nba-legend.vercel.app)| React, Bootstrap, Api-Server | ![nbaLegends](https://github.com/AliDurul/NBA-Legends/assets/80897590/1acc2dcb-3705-4ea4-8b90-554716ee596c)
 [Horoscope-App](https://app-horoscope.vercel.app)| React - Sass - ApiServer | ![horroscope](https://github.com/AliDurul/Horoscope-App/assets/80897590/8e00dbaf-e333-4da9-a050-a0c73d211765)
+[Product-List](https://products-listt.vercel.app)| React, bootstrap, Js|![productList](https://github.com/AliDurul/Products-List/assets/80897590/77d4957a-1dfe-4a66-b43d-718092971039)
+[Image-Gallery](https://react-photogallery.vercel.app)| React, Bootstrap, Api-Server |![photo gallery](https://github.com/AliDurul/Photo-Gallery/assets/80897590/7399af0f-9561-4e5c-969f-badd1244ebdc)
 [Weather-App](https://weather-app-silk-psi.vercel.app)| React - Js - ApiServer | ![wheater-app](https://github.com/AliDurul/Weather-App/assets/80897590/fd2926d6-36de-4da8-9954-4cd81689e9f8)
+[Movie-Info-Card](https://movie-info-card-seven.vercel.app)| React, Bootstrap, Js|![movieCard](https://github.com/AliDurul/Movie-Info_card/assets/80897590/91e307dd-7183-4410-bf3a-f30496306b48)
 [Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css - Js | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
 [Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css - Js | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
 [w3yz Galeri Page](https://w3yz-task.vercel.app/)| React, Tailwind CSS, Figma|![happygallery](https://github.com/bengin34/bengin34/assets/118957608/03d62da6-c6cf-4af5-bd89-fa5ca4d6342a)
+
+
+
+
 
 
 
