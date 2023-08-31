@@ -8,14 +8,12 @@
   </ul>
 </div>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h4 style="display: inline-block">  Hello, and welcome to my GitHub profile! I'm a software engineering student with a passion for web programming. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
-      </h4>
-    </summary>
-  </ul>
-</div>
+
+
+<h4 style="display: inline-block; align="center"">  Hello, and welcome to my GitHub profile! I'm a software engineering student with a passion for web programming. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
+</h4>
+   
+
 
  <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture>
 
