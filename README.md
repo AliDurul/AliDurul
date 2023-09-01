@@ -75,33 +75,13 @@
 [Several Javascript Intro Projects](https://github.com/AliDurul/JS-Projects-Beginner-Level)| Html, Css, Javascript| ![jsbeginnerprojects](https://github.com/AliDurul/JS-Projects-Beginner-Level/assets/80897590/05af26fb-9db9-48e4-9e68-2051c984a73d)
 [Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css  | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
 [Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
-
-
+[Several Website Designs Examples](https://github.com/AliDurul/Website-Page-Designs)| Html, Css| ![websiteDesigns](https://github.com/AliDurul/Website-Page-Designs/assets/80897590/19048f71-fe84-4132-bd2a-e9a2c5582854)
  
-Javascript ,  Css, Html,  Api-Server
-
-
-
-
-
 
 
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
-
-
-
-
-    
-
-
-
-
-
-
-
-
 
 
 
