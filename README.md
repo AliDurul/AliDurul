@@ -66,8 +66,10 @@
 [Weather-App](https://weather-app-silk-psi.vercel.app)| React - Js - ApiServer | ![wheater-app](https://github.com/AliDurul/Weather-App/assets/80897590/fd2926d6-36de-4da8-9954-4cd81689e9f8)
 [Todo-App](https://tod0-appp.vercel.app)|Booststrap, React,  Local Storage, Javascript, Html, Css | ![todo](https://github.com/AliDurul/Todo-App/assets/80897590/53bb0d27-45df-4dfb-b4dc-da47c7d2bca4)
 [Movie-Info-Card](https://movie-info-card-seven.vercel.app)| React, Bootstrap, Js|![movieCard](https://github.com/AliDurul/Movie-Info_card/assets/80897590/91e307dd-7183-4410-bf3a-f30496306b48)
-[Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css - Js | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
-[Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css - Js | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
+[Interview-Accord](https://interview-accordd.vercel.app)| React, Bootstrap, Js| ![interviewaccord](https://github.com/AliDurul/Interview-Accord/assets/80897590/6a9c40bc-3ecc-467b-b66d-b20708b4e877)
+[Several Javascript Intro Projects](https://github.com/AliDurul/JS-Projects-Beginner-Level)| Html, Css, Javascript| ![jsbeginnerprojects](https://github.com/AliDurul/JS-Projects-Beginner-Level/assets/80897590/05af26fb-9db9-48e4-9e68-2051c984a73d)
+[Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css  | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
+[Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
 
 
  
