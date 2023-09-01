@@ -64,16 +64,21 @@
 [Product-List](https://products-listt.vercel.app)| React, bootstrap, Js|![productList](https://github.com/AliDurul/Products-List/assets/80897590/77d4957a-1dfe-4a66-b43d-718092971039)
 [Image-Gallery](https://react-photogallery.vercel.app)| React, Bootstrap, Api-Server |![photo gallery](https://github.com/AliDurul/Photo-Gallery/assets/80897590/7399af0f-9561-4e5c-969f-badd1244ebdc)
 [Weather-App](https://weather-app-silk-psi.vercel.app)| React - Js - ApiServer | ![wheater-app](https://github.com/AliDurul/Weather-App/assets/80897590/fd2926d6-36de-4da8-9954-4cd81689e9f8)
-[Todo-App](https://tod0-appp.vercel.app)|Booststrap, React,  Local Storage, Javascript, Html, Css | ![todo](https://github.com/AliDurul/Todo-App/assets/80897590/53bb0d27-45df-4dfb-b4dc-da47c7d2bca4)
+[React Todo-App](https://tod0-appp.vercel.app)|Booststrap, React,  Local Storage, Javascript, Html, Css | ![todo](https://github.com/AliDurul/Todo-App/assets/80897590/53bb0d27-45df-4dfb-b4dc-da47c7d2bca4)
 [Movie-Info-Card](https://movie-info-card-seven.vercel.app)| React, Bootstrap, Js|![movieCard](https://github.com/AliDurul/Movie-Info_card/assets/80897590/91e307dd-7183-4410-bf3a-f30496306b48)
 [Interview-Accord](https://interview-accordd.vercel.app)| React, Bootstrap, Js| ![interviewaccord](https://github.com/AliDurul/Interview-Accord/assets/80897590/6a9c40bc-3ecc-467b-b66d-b20708b4e877)
+[Bootstrap-Intro-Webpage](https://bootstrap-intro-webpage.vercel.app)| Html, Bootstrap, Css| ![introbootstrap](https://github.com/AliDurul/Bootstrap-Intro-Webpage/assets/80897590/9794db23-fffe-43c1-82bd-dac834b6cde3)
+[Crypto-Coin-App](https://crypto-coin-app-theta.vercel.app)|Javascript, Css, Html, Api-Server| ![cyrptomoney](https://github.com/AliDurul/Crypto-Coin-App/assets/80897590/cdff214c-0c4b-4a65-b75a-25ea75587359)
+[Js Todo App](https://javascript-todo-app-seven.vercel.app)|Javascript, Css, Html, Local Storage| ![javascriptTodo](https://github.com/AliDurul/Javascript-Todo-App/assets/80897590/6808c253-75fd-4bb6-b98a-46256930a4d4)
+[Rest-Countries App](https://rest-countries-nine-zeta.vercel.app)|Javascript, Css, Html, Api-Server,  Bootstrap| ![countries](https://github.com/AliDurul/Rest-Countries/assets/80897590/63ab9153-6477-443d-a1bd-5c0f07a088f8)
+[Notes App](https://notes-app-mu.vercel.app)|Javascript, Css, Html, Local Storage| ![notesApp](https://github.com/AliDurul/Notes-App/assets/80897590/7b5b7515-e6e9-47c8-b62d-afd82d885f35)
 [Several Javascript Intro Projects](https://github.com/AliDurul/JS-Projects-Beginner-Level)| Html, Css, Javascript| ![jsbeginnerprojects](https://github.com/AliDurul/JS-Projects-Beginner-Level/assets/80897590/05af26fb-9db9-48e4-9e68-2051c984a73d)
 [Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css  | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
 [Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
 
 
  
-Booststrap, React,  Local Storage, Javascript, Html, Css
+Javascript ,  Css, Html,  Api-Server
 
 
 
