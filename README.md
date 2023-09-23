@@ -1,5 +1,7 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=23&pause=1000&color=1E88E5&vCenter=true&width=800&height=60&lines=Hi,+I+am+Ali;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Front+End+Developer.;%F0%9F%93%91+Studying+on+being+Full+Stack+Developer.+;%F0%9F%8E%93+About+to+graduate+from+Software+Engineering.;%F0%9F%92%99+Love+to+learn+new+stuffs." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=23&pause=1000&color=1E88E5&vCenter=true&width=800&height=60&lines=Hi,+I+am+Ali;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Front+End+Developer.;%F0%9F%93%91+Studying+on+being+Full+Stack+Developer.+;%F0%9F%8E%93+About+to+graduate+from+Software+Engineering.;%F0%9F%92%99+Love+to+learn+new+stuffs." alt="Typing SVG" />
+</a>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -8,14 +10,10 @@
   </ul>
 </div>
 
-
-
-<h4 style="display: inline-block; align="center"">  Hello, and welcome to my GitHub profile! I'm a software engineering student with a passion for web programming. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. 
-</h4>
+<p>  Hello, and welcome to my GitHub profile! I'm a software engineering student with a passion for web programming. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. </p>
    
 
-
- <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture>
+ <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
 
 - I am doing my final year project for a Bachelor's degree in Computer Science.
   
