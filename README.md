@@ -10,6 +10,9 @@
   </ul>
 </div>
 
+
+
+
 <p>  Hello, and welcome to my GitHub profile! I'm a software engineering student with a passion for web programming. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. </p>
    
 
