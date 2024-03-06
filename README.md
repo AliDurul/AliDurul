@@ -11,18 +11,13 @@
 </div>
 
 
-
-
-<p>  Hello, and welcome to my GitHub profile! I'm a software engineering student with a passion for web programming. I am constantly learning and experimenting new technologies and frameworks to find the best solutions to the problems at hand. </p>
-   
+<p>  Hello, and welcome to my GitHub profile! I'm Dedicated to lifelong learning, I continuously seek out new technologies, tools, and libraries to enhance my skill set. Balancing my role as a freelancer with mentorship in an online full-stack development course, Effectively merge hands-on development expertise with a commitment to teaching. </p>
 
  <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> <br>
 
-- I am doing my final year project for a Bachelor's degree in Computer Science.
-  
-- I’m currently working on **becoming a Full-Stack Developer**.
-  
-- Ask me anything about **React - Javascript - HTML5, CSS3 - Third party CSS libraries**.
+- Holding a Bachelor's degree in Computer Science and boasting over four years of comprehensive experience in the IT. 
+
+- Ask me anything about **MernStack Development**.
 
 ### 📬 Connect with me: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-durul-851511151/)
