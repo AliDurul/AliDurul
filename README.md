@@ -75,18 +75,6 @@
   </ul>
 </div>
 
-<br>
-<h2 align="center">📊 Github Stats</h2>
-
-<div align = "center">
-
-![Stats Overview](https://raw.githubusercontent.com/AliDurul/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Most Used Languages](https://raw.githubusercontent.com/AliDurul/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-</div>
-<br>
-
-
 <details>
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
@@ -102,7 +90,7 @@
 
 <b>⚡ Github Public Stats</b>
 <br>
-<div style={display:flex}>
+<div style={display:flex} align = 'center'>
 <img src="https://github-readme-stats.vercel.app/api?username=AliDurul&show_icons=true&theme=radical&count_private=true" alt="AliDurul" width="420"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDurul&layout=compact&theme=radical" alt="AliDurul" height="165">
 </div>
