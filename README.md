@@ -43,20 +43,20 @@
   </ul>
 </div>
 
-  Project Name       |Libraries and Technologies I use     |How does my project look   
-:-------------------------|-------------------------|-------------------------
-[MernStack_Stock-App](https://mern-stack-stock-app.vercel.app/)| React, Node-Expres.js, MongoDB Material UI, Redux-Toolkit | ![stockapp](https://github.com/AliDurul/FullStack-Stock-App/assets/80897590/26627259-cb60-47d9-bd50-8c64f7877254)
-[MernStack_Blog-App](https://mernstack-blogapplication.vercel.app/)| React, Node-Expres.js, MongoDB, Material UI, Redux-Toolkit | ![blog app](https://github.com/AliDurul/MernStack_Blog-App/assets/80897590/1d78fdb1-5326-4237-b630-097889dbc09a)
-[Firebase_Movie-App](https://firebase-movie-app-two.vercel.app)| React, Tailwind CSS, Context Api, ApiServer | ![movieapp](https://github.com/AliDurul/Firebase-Movie-App/assets/80897590/89c7bdcd-c9f4-4c47-bbd3-f918e1a09de5)
-[Lee-Library](https://tailwind-shopping-cartt.vercel.app)| React, StyledComponent CSS, Context Api, ApiServer | ![LeeLibrirary](https://github.com/AliDurul/Lee-Library/assets/80897590/76766085-6395-4bbd-a285-6acbaab5bedc)
-[React_Shopping-Cart](https://tailwind-shopping-cartt.vercel.app)| React, Tailwind CSS, Context Api, ApiServer | ![shoppingCart](https://github.com/AliDurul/Shopping-Cart/assets/80897590/d492d45f-b971-4a68-817e-a9d18a53cdbb)
-[React_FoodRecipe-App](https://food-recipe-app-mu.vercel.app) | React, CSS, Context Api, ApiServer, React-Router | ![foodrecipe](https://github.com/AliDurul/Food-Recipe-App/assets/80897590/ce752921-a133-468f-a928-d1bc6e3eaa46)
-[Reac_lee-Media](https://react-leemedia.vercel.app/) | React, Javascript, Material UI, ApiServer, Axios | ![leeMedia](https://github.com/AliDurul/React_Lee-Media/assets/80897590/ae3fa317-2f15-4494-8a8e-ccbdd662add0)
-[React_hoobank](https://lee-react-hoobank.vercel.app/) | React, Javascript, Tailwind Css, Html | ![hoobank(1)](https://github.com/AliDurul/React_HooBank/assets/80897590/f6b32f14-d9b9-4e98-83fa-887ec0063d61)
-[React_SocialMedia](https://lee-react-socialmedia.vercel.app/) | React, Material UI, Js | ![Video_231216132001](https://github.com/AliDurul/React_SocialMedia/assets/80897590/d793c394-f4c8-4f63-9fc6-489173796d4f)
-[Next App](https://next-fullstack-app-umber.vercel.app/) | Next, Next-Auth, Module CSS, App-Router | ![nextApp](https://github.com/AliDurul/MernStack_Blog-App/assets/80897590/bd2dc496-e806-4243-b82c-0582e57f9759)
-[Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css  | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
-[Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
+  Project Name       | Repo Link & Technologies     | How does my project look
+:-------------------------|-------------------------|------------------------- 
+[FullStack_Stock-App](https://mern-stack-stock-app.vercel.app/) | React, Node-Expres.js, MongoDB Material UI, Redux-Toolkit [# Go to Repo](https://github.com/AliDurul/FullStack_Stock-App) | ![stockapp](https://github.com/AliDurul/FullStack-Stock-App/assets/80897590/26627259-cb60-47d9-bd50-8c64f7877254)
+[FullStack_Blog-App](https://mernstack-blogapplication.vercel.app/)| React, Node-Expres.js, MongoDB, Material UI, Redux-Toolkit [# Go to Repo](https://github.com/AliDurul/FullStack_Blog-App) | ![blog app](https://github.com/AliDurul/MernStack_Blog-App/assets/80897590/1d78fdb1-5326-4237-b630-097889dbc09a)
+[Firebase_Movie-App](https://firebase-movie-app-two.vercel.app)| React, Tailwind CSS, Context Api, ApiServer [# Go to Repo](https://github.com/AliDurul/Firebase-Movie-App)| ![movieapp](https://github.com/AliDurul/Firebase-Movie-App/assets/80897590/89c7bdcd-c9f4-4c47-bbd3-f918e1a09de5)
+[Lee-Library](https://tailwind-shopping-cartt.vercel.app)| React, StyledComponent CSS, Context Api, ApiServer [# Go to Repo](https://github.com/AliDurul/Lee-Library) | ![LeeLibrirary](https://github.com/AliDurul/Lee-Library/assets/80897590/76766085-6395-4bbd-a285-6acbaab5bedc)
+[React_Shopping-Cart](https://tailwind-shopping-cartt.vercel.app)| React, Tailwind CSS, Context Api, ApiServer [# Go to Repo](https://github.com/AliDurul/Shopping-Cart) | ![shoppingCart](https://github.com/AliDurul/Shopping-Cart/assets/80897590/d492d45f-b971-4a68-817e-a9d18a53cdbb)
+[React_FoodRecipe-App](https://food-recipe-app-mu.vercel.app) | React, CSS, Context Api, ApiServer, React-Router [# Go to Repo](https://github.com/AliDurul/Food-Recipe-App) | ![foodrecipe](https://github.com/AliDurul/Food-Recipe-App/assets/80897590/ce752921-a133-468f-a928-d1bc6e3eaa46)
+[Reac_lee-Media](https://react-leemedia.vercel.app/) | React, Javascript, Material UI, ApiServer, Axios [# Go to Repo](https://github.com/AliDurul/React_Lee-Media) | ![leeMedia](https://github.com/AliDurul/React_Lee-Media/assets/80897590/ae3fa317-2f15-4494-8a8e-ccbdd662add0)
+[React_hoobank](https://lee-react-hoobank.vercel.app/) | React, Javascript, Tailwind Css, Html [# Go to Repo](https://github.com/AliDurul/React_HooBank) | ![hoobank(1)](https://github.com/AliDurul/React_HooBank/assets/80897590/f6b32f14-d9b9-4e98-83fa-887ec0063d61)
+[React_SocialMedia](https://lee-react-socialmedia.vercel.app/) | React, Material UI, Js [# Go to Repo](https://github.com/AliDurul/React_SocialMedia) | ![Video_231216132001](https://github.com/AliDurul/React_SocialMedia/assets/80897590/d793c394-f4c8-4f63-9fc6-489173796d4f)
+[NextJs Fullstack App](https://next-fullstack-app-umber.vercel.app/) | Next, Next-Auth, Module CSS, App-Router [# Go to Repo](https://github.com/AliDurul/Next_FullstackApp) | ![nextApp](https://github.com/AliDurul/MernStack_Blog-App/assets/80897590/bd2dc496-e806-4243-b82c-0582e57f9759)
+[Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css [# Go to Repo](https://github.com/AliDurul/Portfolio-Example)  | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
+[Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css  [# Go to Repo](https://github.com/AliDurul/Eduford-Universtiy-Clone) | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
 
  
 
