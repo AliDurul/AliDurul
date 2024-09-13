@@ -58,10 +58,6 @@
 
 
 
- 
-
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
@@ -74,12 +70,12 @@
 </div>
 
 <details>
-<summary><b>🔥 Streak Stats</b></summary>
+<summary><b>🔥 Streak & Github Stats ⚡ </b></summary>
 <br>
-<div style={display:flex ; gap:10}>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliDurul&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-<img src="https://github-readme-stats-eight-pink.vercel.app//api/top-langs/?username=AliDurul&layout=compact&theme=blue_navy" alt="AliDurul" height="200">
-<img src="https://github-readme-stats.vercel.app/api?username=AliDurul&show_icons=true&theme=radical&count_private=true" alt="AliDurul" width="420"/>&nbsp;
+<div style={display:flex ; gap:20}>
+  <a  href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliDurul&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AliDurul&show_icons=true&theme=radical&count_private=true" alt="AliDurul" height="200" width="420"/>&nbsp;
+  <img src="https://github-readme-stats-eight-pink.vercel.app//api/top-langs/?username=AliDurul&layout=compact&theme=radical" alt="AliDurul" width="400" height="230">
 </div>
 </details>
 
@@ -88,13 +84,5 @@
 <br><br>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=AliDurul&theme=discord" alt="AliDurul" />
 
-
-<b>⚡ Github Public Stats</b>
-<br>
-<div style={display:flex} align = 'center'>
-<img src="https://github-readme-stats.vercel.app/api?username=AliDurul&show_icons=true&theme=radical&count_private=true" alt="AliDurul" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliDurul&layout=compact&theme=radical" alt="AliDurul" height="165">
-</div>
-  
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
