@@ -55,8 +55,8 @@
 [React_hoobank](https://lee-react-hoobank.vercel.app/) | React, Javascript, Tailwind Css, Html [# Go to Repo](https://github.com/AliDurul/React_HooBank) | ![hoobank(1)](https://github.com/AliDurul/React_HooBank/assets/80897590/f6b32f14-d9b9-4e98-83fa-887ec0063d61)
 [React_SocialMedia](https://lee-react-socialmedia.vercel.app/) | React, Material UI, Js [# Go to Repo](https://github.com/AliDurul/React_SocialMedia) | ![Video_231216132001](https://github.com/AliDurul/React_SocialMedia/assets/80897590/d793c394-f4c8-4f63-9fc6-489173796d4f)
 [NextJs Fullstack App](https://next-fullstack-app-umber.vercel.app/) | Next, Next-Auth, Module CSS, App-Router [# Go to Repo](https://github.com/AliDurul/Next_FullstackApp) | ![nextApp](https://github.com/AliDurul/MernStack_Blog-App/assets/80897590/bd2dc496-e806-4243-b82c-0582e57f9759)
-[Portfolio-Example](https://portfolio-example-iota.vercel.app/)| Html - Css [# Go to Repo](https://github.com/AliDurul/Portfolio-Example)  | ![portfolio-website](https://github.com/AliDurul/Portfolio-Example/assets/80897590/cddbe6ea-89cf-419e-8535-2b81ce55ecbe)
-[Eduford-University-Clone](https://eduford-universtiy-clone.vercel.app)| Html - Css  [# Go to Repo](https://github.com/AliDurul/Eduford-Universtiy-Clone) | ![Eduford-University](https://github.com/AliDurul/Eduford-Universtiy-Clone/assets/80897590/54167453-7432-4e25-baf0-eaa5c66728d0)
+
+
 
  
 
@@ -83,7 +83,7 @@
 
 <b>🏆 Github Trophies</b>
 <br><br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=AliDurul&theme=discord" alt="MelvinAguilar" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=AliDurul&theme=discord" alt="AliDurul" />
 
 
 <b>⚡ Github Public Stats</b>
