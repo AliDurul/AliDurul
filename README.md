@@ -76,8 +76,11 @@
 <details>
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AliDurul&theme=transparent&border_radius=4.4&exclude_days=Sun&card_width=390)](https://git.io/streak-stats)
+<div style={display:flex ; gap:10}>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AliDurul&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats-eight-pink.vercel.app//api/top-langs/?username=AliDurul&layout=compact&theme=blue_navy" alt="AliDurul" height="200">
+<img src="https://github-readme-stats.vercel.app/api?username=AliDurul&show_icons=true&theme=radical&count_private=true" alt="AliDurul" width="420"/>&nbsp;
+</div>
 </details>
 
 
