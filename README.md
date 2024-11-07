@@ -37,11 +37,15 @@
   </a>
 </p>
 
+<!--
+
+
 <div id="user-content-toc">
   <ul>
     <summary><h2 style="display: inline-block">My Projects⚒💻</h2></summary>
   </ul>
 </div>
+
 
   Project Name       | Repo Link & Technologies     | How does my project look
 :-------------------------|-------------------------|------------------------- 
@@ -56,8 +60,7 @@
 [React_SocialMedia](https://lee-react-socialmedia.vercel.app/) | React, Material UI, Js [# Go to Repo](https://github.com/AliDurul/React_SocialMedia) | ![Video_231216132001](https://github.com/AliDurul/React_SocialMedia/assets/80897590/d793c394-f4c8-4f63-9fc6-489173796d4f)
 [NextJs Fullstack App](https://next-fullstack-app-umber.vercel.app/) | Next, Next-Auth, Module CSS, App-Router [# Go to Repo](https://github.com/AliDurul/Next_FullstackApp) | ![nextApp](https://github.com/AliDurul/MernStack_Blog-App/assets/80897590/bd2dc496-e806-4243-b82c-0582e57f9759)
 
-
-
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
