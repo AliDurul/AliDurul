@@ -20,7 +20,7 @@
 
 ### 📬 Connect with me: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-durul-851511151/)
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:alidrl26@gmail.com)
+[![Gmail: Ali Durul](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:alidrl26@gmail.com)
 ![](https://komarev.com/ghpvc/?username=AliDurul&color=blue&style=for-the-badge)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
@@ -38,8 +38,6 @@
 </p>
 
 <!--
-
-
 <div id="user-content-toc">
   <ul>
     <summary><h2 style="display: inline-block">My Projects⚒💻</h2></summary>
@@ -62,6 +60,140 @@
 
 -->
 
+<div id="user-content-toc">
+  <ul>
+    <summary><h2 style="display: inline-block">Project Portfolio ⚒💻</h2></summary>
+  </ul>
+</div>
+    
+  <table style="width:100%; border-collapse: collapse; text-align: left;">
+        <thead>
+            <tr>
+                <th style="padding: 12px; background-color: #3498db; color: white;">🚀 Project Name</th>
+                <th style="padding: 12px; background-color: #3498db; color: white;">🔗 Live Link </th>
+                <th style="padding: 12px; background-color: #3498db; color: white;">🛠️ Repo & Technologies</th>
+                <th style="padding: 12px; background-color: #3498db; color: white;">🔗 Repo Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stock-App </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://mern-stack-stock-app.vercel.app/">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;"> React, Node-Express.js, MongoDB,
+                    MaterialUI,Redux-Toolkit <br>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://github.com/AliDurul/FullStack_Stock-App">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; font-weight: bold; background-color: #f9f9f9;"> # FullStack_Blog-App </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://fullstack-blog-app-c4ay.onrender.com">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;"> React, Node-Express.js, MongoDB, Material UI,
+                    Redux-Toolkit<br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/FullStack_Blog-App">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # Firebase_Movie-App </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://firebase-movie-app-two.vercel.app">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;"> React, Tailwind CSS, Context API, ApiServer<br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/FullStack_Blog-App">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; background-color: #f9f9f9;"> # Lee-Library </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://tailwind-shopping-cartt.vercel.app">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;"> React, Styled Components, Context API,
+                    ApiServer<br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/Lee-Library">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; background-color: #ecf0f1;"> # React_Shopping-Cart </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://tailwind-shopping-cartt.vercel.app">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;"> React, Tailwind CSS, Context API, ApiServer<br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/Shopping-Cart">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; background-color: #f9f9f9;"> # React_FoodRecipe-App </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://food-recipe-app-mu.vercel.app">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;"> React, CSS, Context API, ApiServer,
+                    React-Router<br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/Food-Recipe-App">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; background-color: #ecf0f1;"> # React_lee-Media </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://react-leemedia.vercel.app/">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    React, JavaScript, Material UI, ApiServer,Axios <br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/React_Lee-Media">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; background-color: #f9f9f9;"> # React_LandingPage </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://lee-react-hoobank.vercel.app/">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;"> React, JavaScript, Tailwind CSS, HTML<br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/React_HooBank">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; background-color: #ecf0f1;"> # React_SocialMedia </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://lee-react-socialmedia.vercel.app/">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;"> React, Material UI, JavaScript<br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/React_SocialMedia">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; background-color: #f9f9f9;"> # NextJs Fullstack App </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://next-fullstack-app-umber.vercel.app/">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;"> Next.js, Next-Auth, Module CSS, App-Router<br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/Next_FullstackApp">-- Visit Repo -- </a>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" >
 
 
@@ -71,6 +203,10 @@
     <summary><h2 style="display: inline-block"> More About Me on GitHub👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
+<b>🏆 Github Trophies</b>
+<br><br>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=AliDurul&theme=discord" alt="AliDurul" />
 
 <details>
 <summary><b>🔥 Streak & Github Stats ⚡ </b></summary>
@@ -83,9 +219,7 @@
 </details>
 
 
-<b>🏆 Github Trophies</b>
-<br><br>
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=AliDurul&theme=discord" alt="AliDurul" />
+
 
   
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
