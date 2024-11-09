@@ -76,6 +76,28 @@
             </tr>
         </thead>
         <tbody>
+          <tr>
+                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_ERP-System </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://strong-concrete-frontend.vercel.app">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;"> NextJS, Tailwind, Node-Express.js, PostgreSQL <br>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://github.com/AliDurul/Strong_concrete_Frontend">-- Visit Repo -- </a>
+                </td>
+            </tr>
+          <tr>
+                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stream-Link-App </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://streamlink-nextjs.vercel.app/">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;"> NextJS, Tailwind, Node-Express.js, MongoDB, OAuth <br>
+                </td>
+                <td style="padding: 12px; background-color: #ecf0f1;">
+                    <a href="https://github.com/AliDurul/NextJs_StreamLink">-- Visit Repo -- </a>
+                </td>
+            </tr>
             <tr>
                 <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stock-App </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
