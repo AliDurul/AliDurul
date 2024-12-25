@@ -111,6 +111,18 @@
                 </td>
             </tr>
             <tr>
+                <td style="padding: 12px; font-weight: bold; background-color: #f9f9f9;"> # FullStack_EventLee-App </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://event-lee.vercel.app/">-- Live Link -- </a>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;"> NextJS 14, Typescript, Clerk, MongoDB, Mongoose, Stripe, Tailwind CSS, Shadcn, 
+                  <br>
+                </td>
+                <td style="padding: 12px; background-color: #f9f9f9;">
+                    <a href="https://github.com/AliDurul/Next_EventLeeApp">-- Visit Repo -- </a>
+                </td>
+            </tr>
+            <tr>
                 <td style="padding: 12px; font-weight: bold; background-color: #f9f9f9;"> # FullStack_Blog-App </td>
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://fullstack-blog-app-c4ay.onrender.com">-- Live Link -- </a>
