@@ -11,8 +11,7 @@
 </div>
 
 <p>Hi there, I'm a passionate Full Stack Developer and mentor who loves building modern web applications anf continuously seeking out new technologies.</p>
-
- <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture>
+ <!-- <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> --!>
 
 - Proficient in **JavaScript, TypeScript, React, Next.js, and Node.js** I focus on creating scalable and efficient applications.
 
