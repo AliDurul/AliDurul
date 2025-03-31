@@ -91,7 +91,7 @@
                   <td style="padding: 12px; background-color: #ecf0f1;">
                       <a href="https://bloglyy.vercel.app">-- Live Link -- </a>
                   </td>
-                  <td style="padding: 12px; background-color: #ecf0f1;"> NextJS, Tailwind, Node-Express.js, PostgreSQL <br>
+                  <td style="padding: 12px; background-color: #ecf0f1;"> NextJS, Next-Auth, Node-Express.js, TypeScript, MongoDB, AWS  <br>
                   </td>
                   <td style="padding: 12px; background-color: #ecf0f1;">
                       <a href="https://github.com/AliDurul/FullStack-BlogLy/tree/main">-- Visit Repo -- </a>
