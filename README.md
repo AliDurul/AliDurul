@@ -87,7 +87,7 @@
                 </td>
             </tr>
             <tr>
-                  <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Blog-Application </td>
+                  <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Blogly-Application </td>
                   <td style="padding: 12px; background-color: #ecf0f1;">
                       <a href="https://bloglyy.vercel.app">-- Live Link -- </a>
                   </td>
@@ -131,7 +131,7 @@
                     <a href="https://github.com/AliDurul/Next_EventLeeApp">-- Visit Repo -- </a>
                 </td>
             </tr>
-            <tr>
+           <!--  <tr>
                 <td style="padding: 12px; font-weight: bold; background-color: #f9f9f9;"> # FullStack_Blog-App </td>
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://fullstack-blog-app-c4ay.onrender.com">-- Live Link -- </a>
@@ -142,8 +142,8 @@
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://github.com/AliDurul/FullStack_Blog-App">-- Visit Repo -- </a>
                 </td>
-            </tr>
-            <tr>
+            </tr> -->
+         <!--    <tr>
                 <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # Firebase_Movie-App </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
                     <a href="https://firebase-movie-app-two.vercel.app">-- Live Link -- </a>
@@ -153,11 +153,11 @@
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://github.com/AliDurul/FullStack_Blog-App">-- Visit Repo -- </a>
                 </td>
-            </tr>
-            <tr>
+            </tr> -->
+            <!-- <tr>
                 <td style="padding: 12px; background-color: #f9f9f9;"> # Lee-Library </td>
                 <td style="padding: 12px; background-color: #f9f9f9;">
-                    <a href="https://tailwind-shopping-cartt.vercel.app">-- Live Link -- </a>
+                    <a href="https://lee-library.vercel.app/">-- Live Link -- </a>
                 </td>
                 <td style="padding: 12px; background-color: #f9f9f9;"> React, Styled Components, Context API,
                     ApiServer<br>
@@ -165,8 +165,8 @@
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://github.com/AliDurul/Lee-Library">-- Visit Repo -- </a>
                 </td>
-            </tr>
-            <tr>
+            </tr> -->
+            <!-- <tr>
                 <td style="padding: 12px; background-color: #ecf0f1;"> # React_Shopping-Cart </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
                     <a href="https://tailwind-shopping-cartt.vercel.app">-- Live Link -- </a>
@@ -176,8 +176,8 @@
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://github.com/AliDurul/Shopping-Cart">-- Visit Repo -- </a>
                 </td>
-            </tr>
-            <tr>
+            </tr> -->
+           <!--  <tr>
                 <td style="padding: 12px; background-color: #f9f9f9;"> # React_FoodRecipe-App </td>
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://food-recipe-app-mu.vercel.app">-- Live Link -- </a>
@@ -188,8 +188,8 @@
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://github.com/AliDurul/Food-Recipe-App">-- Visit Repo -- </a>
                 </td>
-            </tr>
-            <tr>
+            </tr> -->
+<!--             <tr>
                 <td style="padding: 12px; background-color: #ecf0f1;"> # React_lee-Media </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
                     <a href="https://react-leemedia.vercel.app/">-- Live Link -- </a>
@@ -200,9 +200,9 @@
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://github.com/AliDurul/React_Lee-Media">-- Visit Repo -- </a>
                 </td>
-            </tr>
+            </tr> -->
             <tr>
-                <td style="padding: 12px; background-color: #f9f9f9;"> # React_LandingPage </td>
+                <td style="padding: 12px; background-color: #f9f9f9;"> # React_Bank-Landing-Page </td>
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://lee-react-hoobank.vercel.app/">-- Live Link -- </a>
                 </td>
@@ -212,7 +212,7 @@
                     <a href="https://github.com/AliDurul/React_HooBank">-- Visit Repo -- </a>
                 </td>
             </tr>
-            <tr>
+<!--             <tr>
                 <td style="padding: 12px; background-color: #ecf0f1;"> # React_SocialMedia </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
                     <a href="https://lee-react-socialmedia.vercel.app/">-- Live Link -- </a>
@@ -222,18 +222,7 @@
                 <td style="padding: 12px; background-color: #f9f9f9;">
                     <a href="https://github.com/AliDurul/React_SocialMedia">-- Visit Repo -- </a>
                 </td>
-            </tr>
-            <tr>
-                <td style="padding: 12px; background-color: #f9f9f9;"> # NextJs Fullstack App </td>
-                <td style="padding: 12px; background-color: #f9f9f9;">
-                    <a href="https://next-fullstack-app-umber.vercel.app/">-- Live Link -- </a>
-                </td>
-                <td style="padding: 12px; background-color: #f9f9f9;"> Next.js, Next-Auth, Module CSS, App-Router<br>
-                </td>
-                <td style="padding: 12px; background-color: #f9f9f9;">
-                    <a href="https://github.com/AliDurul/Next_FullstackApp">-- Visit Repo -- </a>
-                </td>
-            </tr>
+            </tr> -->
         </tbody>
     </table>
     
