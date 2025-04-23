@@ -111,7 +111,7 @@
             <tr>
                 <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stock-App </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
-                    <a href="https://mern-stack-stock-app.vercel.app/">-- Live Link -- </a>
+                    <a href="https://full-stack-stock-app.vercel.app/">-- Live Link -- </a>
                 </td>
                 <td style="padding: 12px; background-color: #ecf0f1;"> React, Node-Express.js, MongoDB,
                     MaterialUI,Redux-Toolkit <br>
