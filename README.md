@@ -1,23 +1,23 @@
 
-<!-- <a href="https://git.io/typing-svg">
+<!--<a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=comic+sense&weight=600&size=23&pause=1000&color=1E88E5&vCenter=true&width=800&height=60&lines=Hi,+I+am+Ali;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+A+Full+Stack+Developer.;%F0%9F%8E%93+Graduated+from+Software+Engineering.;%F0%9F%92%99+Love+to+learn+new+stuffs." alt="Typing SVG" />
-</a> --!>
+</a>-->
 
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="left">
-    <summary> <img src = "./assets/img/about_me.gif" width = 50px /><h2 style="display: inline-block">About me</h2></summary>
+    <summary> <img src = "./assets/img/about_me.gif" width = 50px /> <h2 style="display: inline-block"> Hey there, fellow devs! 👋</h2></summary>
   </ul>
 </div>
+ 
+I'm a Full Stack Developer and mentor who’s all about building cool web and mobile apps. Always exploring new tech, learning new tricks, and figuring out better ways to bring ideas to life.
 
-<p>Hi there, I'm a passionate Full Stack Developer and mentor who loves building modern web applications anf continuously seeking out new technologies.</p>
- <!-- <picture> <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="right"  width = 450px /> </picture> --!>
+I work mostly with JavaScript, TypeScript, React, Next.js, and Node.js — and I love making apps that are fast, clean, and actually fun to use.
 
-- Proficient in **JavaScript, TypeScript, React, Next.js, and Node.js** I focus on creating scalable and efficient applications.
+Right now, I’m deep into a mobile app project that’s gonna be a real game-changer. 🚀
 
-- Ask me anything about **Full Stack Development**
+If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out about coding, hit me up!
 
-### 📬 Connect with me: 
+### 📬 Let’s build something amazing together: 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-durul-851511151/)
 [![Gmail: Ali Durul](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:alidrl26@gmail.com)](mailto:alidrl26@gmail.com)
 ![](https://komarev.com/ghpvc/?username=AliDurul&color=blue&style=for-the-badge)
@@ -30,11 +30,11 @@
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,redux,bootstrap,materialui,tailwind,sass,styledcomponents,py,linux,mysql,mongodb,postgres,mysql,firebase,postman,azure,github,gitlab,vercel,vite,git,vscode,figma&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,vue,redux,bootstrap,materialui,tailwind,sass,styledcomponents,vite,nodejs,express,graphql,redis,sequelize,mysql,mongodb,postgres,firebase,aws,azure,appwrite,docker,kubernetes,nginx,github,gitlab,git,postman,cypress,jest,figma&perline=15" />
   </a>
-</p>
+<!-- </p> -->
 
 <!--
 <div id="user-content-toc">
@@ -76,59 +76,69 @@
         </thead>
         <tbody>
           <tr>
-                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_ERP-System </td>
+                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_ERP_System </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
-                    <a href="https://strong-concrete-frontend.vercel.app">-- Live Link -- </a>
+                    <a href="https://strong-concrete-frontend.vercel.app">-Live Link- </a>
                 </td>
                 <td style="padding: 12px; background-color: #ecf0f1;"> NextJS, Tailwind, Node-Express.js, PostgreSQL <br>
                 </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
-                    <a href="https://github.com/AliDurul/Strong_concrete_Frontend">-- Visit Repo -- </a>
+                    <a href="https://github.com/AliDurul/Strong_concrete_Frontend">-Visit Repo-</a>
                 </td>
             </tr>
             <tr>
-                  <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Blogly-Application </td>
+                  <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Blogly_App </td>
                   <td style="padding: 12px; background-color: #ecf0f1;">
-                      <a href="https://bloglyy.vercel.app">-- Live Link -- </a>
+                      <a href="https://bloglyy.vercel.app">-Live Link-</a>
                   </td>
                   <td style="padding: 12px; background-color: #ecf0f1;"> NextJS, Next-Auth, Node-Express.js, TypeScript, MongoDB, AWS  <br>
                   </td>
                   <td style="padding: 12px; background-color: #ecf0f1;">
-                      <a href="https://github.com/AliDurul/FullStack-BlogLy/tree/main">-- Visit Repo -- </a>
+                      <a href="https://github.com/AliDurul/FullStack-BlogLy/tree/main">-Visit Repo-</a>
                   </td>
             </tr>
             <tr>
-                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stream-Link-App </td>
+                  <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # AI_Interview_Platform</td>
+                  <td style="padding: 12px; background-color: #ecf0f1;">
+                      <a href="https://mockly-interview-platform.vercel.app/">-Live Link-</a>
+                  </td>
+                  <td style="padding: 12px; background-color: #ecf0f1;">Next.js, Firebase, Tailwind CSS, Vapi AI, Shadcn/UI, Google Gemini, Zod  <br></td>
+                  <td style="padding: 12px; background-color: #ecf0f1;">
+                      <a href="https://github.com/AliDurul/Mockly_Interview_Platform">-Visit Repo-</a>
+                  </td>
+            </tr>
+            <tr>
+                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stream_Link_App </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
-                    <a href="https://streamlink-nextjs.vercel.app/">-- Live Link -- </a>
+                    <a href="https://streamlink-nextjs.vercel.app/">-Live Link-</a>
                 </td>
                 <td style="padding: 12px; background-color: #ecf0f1;"> NextJS, Tailwind, Node-Express.js, MongoDB, OAuth <br>
                 </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
-                    <a href="https://github.com/AliDurul/NextJs_StreamLink">-- Visit Repo -- </a>
+                    <a href="https://github.com/AliDurul/NextJs_StreamLink">-Visit Repo-</a>
                 </td>
             </tr>
             <tr>
-                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stock-App </td>
+                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stock_App </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
-                    <a href="https://full-stack-stock-app.vercel.app/">-- Live Link -- </a>
+                    <a href="https://full-stack-stock-app.vercel.app/">-Live Link-</a>
                 </td>
                 <td style="padding: 12px; background-color: #ecf0f1;"> React, Node-Express.js, MongoDB,
                     MaterialUI,Redux-Toolkit <br>
                 </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
-                    <a href="https://github.com/AliDurul/FullStack_Stock-App">-- Visit Repo -- </a>
+                    <a href="https://github.com/AliDurul/FullStack_Stock-App">-Visit Repo-</a>
                 </td>
             </tr>
             <tr>
-                <td style="padding: 12px; font-weight: bold; background-color: #f9f9f9;"> # FullStack_EventLee-App </td>
+                <td style="padding: 12px; font-weight: bold; background-color: #f9f9f9;"> # FullStack_EventLee_App </td>
                 <td style="padding: 12px; background-color: #f9f9f9;">
-                    <a href="https://event-lee.vercel.app/">-- Live Link -- </a>
+                    <a href="https://event-lee.vercel.app/">-Live Link-</a>
                 </td>
                 <td style="padding: 12px; background-color: #f9f9f9;"> NextJS 14, Typescript, Clerk, MongoDB, Stripe
                 </td>
                 <td style="padding: 12px; background-color: #f9f9f9;">
-                    <a href="https://github.com/AliDurul/Next_EventLeeApp">-- Visit Repo -- </a>
+                    <a href="https://github.com/AliDurul/Next_EventLeeApp">-Visit Repo-</a>
                 </td>
             </tr>
            <!--  <tr>
@@ -202,14 +212,14 @@
                 </td>
             </tr> -->
             <tr>
-                <td style="padding: 12px; background-color: #f9f9f9;"> # React_Bank-Landing-Page </td>
+                <td style="padding: 12px; background-color: #f9f9f9;"> # Bank-Landing-Page </td>
                 <td style="padding: 12px; background-color: #f9f9f9;">
-                    <a href="https://lee-react-hoobank.vercel.app/">-- Live Link -- </a>
+                    <a href="https://lee-react-hoobank.vercel.app/">-Live Link-</a>
                 </td>
                 <td style="padding: 12px; background-color: #f9f9f9;"> React, JavaScript, Tailwind CSS, HTML<br>
                 </td>
                 <td style="padding: 12px; background-color: #f9f9f9;">
-                    <a href="https://github.com/AliDurul/React_HooBank">-- Visit Repo -- </a>
+                    <a href="https://github.com/AliDurul/React_HooBank">-Visit Repo-</a>
                 </td>
             </tr>
 <!--             <tr>
