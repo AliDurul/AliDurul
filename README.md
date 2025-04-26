@@ -108,7 +108,7 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
                   </td>
             </tr>
             <tr>
-                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stream_Link_App </td>
+                <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_Stream_Link </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
                     <a href="https://streamlink-nextjs.vercel.app/">-Live Link-</a>
                 </td>
