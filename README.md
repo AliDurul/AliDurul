@@ -64,6 +64,99 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
     <summary><h2 style="display: inline-block">Project Portfolio ⚒💻</h2></summary>
   </ul>
 </div>
+
+<table style="width:100%; border-collapse: collapse; text-align: left;">
+    <thead>
+        <tr>
+            <th style="padding: 12px; background-color: #3498db; color: white;">🚀 Project Name</th>
+            <th style="padding: 12px; background-color: #3498db; color: white;">🔗 Live Link</th>
+            <th style="padding: 12px; background-color: #3498db; color: white;">🛠️ Repo & Technologies</th>
+            <th style="padding: 12px; background-color: #3498db; color: white;">🔗 Repo Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!-- FULL STACK WEB APPS -->
+        <tr>
+            <td colspan="4" style="background-color:#1E88E5; color:white; font-weight:bold; text-align:left; font-size:1.1em;">
+                🖥️ Full Stack Web Apps
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ecf0f1; font-weight:bold;">FullStack_ERP_System</td>
+            <td><a href="https://strong-concrete-frontend.vercel.app">Live Link</a></td>
+            <td>NextJS, Tailwind, Node-Express.js, PostgreSQL</td>
+            <td><a href="https://github.com/AliDurul/Strong_concrete_Frontend">Visit Repo</a></td>
+        </tr>
+        <tr>
+            <td style="background-color:#ecf0f1; font-weight:bold;">FullStack_Blogly_App</td>
+            <td><a href="https://bloglyy.vercel.app">Live Link</a></td>
+            <td>NextJS, Next-Auth, Node-Express.js, TypeScript, MongoDB, AWS</td>
+            <td><a href="https://github.com/AliDurul/FullStack-BlogLy/tree/main">Visit Repo</a></td>
+        </tr>
+        <tr>
+            <td style="background-color:#ecf0f1; font-weight:bold;">FullStack_Stream_Link</td>
+            <td><a href="https://streamlink-nextjs.vercel.app/">Live Link</a></td>
+            <td>NextJS, Tailwind, Node-Express.js, MongoDB, OAuth</td>
+            <td><a href="https://github.com/AliDurul/NextJs_StreamLink">Visit Repo</a></td>
+        </tr>
+        <tr>
+            <td style="background-color:#ecf0f1; font-weight:bold;">FullStack_Stock_App</td>
+            <td><a href="https://full-stack-stock-app.vercel.app/">Live Link</a></td>
+            <td>React, Node-Express.js, MongoDB, MaterialUI, Redux-Toolkit</td>
+            <td><a href="https://github.com/AliDurul/FullStack_Stock-App">Visit Repo</a></td>
+        </tr>
+        <tr>
+            <td style="background-color:#f9f9f9; font-weight:bold;">FullStack_EventLee_App</td>
+            <td><a href="https://event-lee.vercel.app/">Live Link</a></td>
+            <td>NextJS 14, Typescript, Clerk, MongoDB, Stripe</td>
+            <td><a href="https://github.com/AliDurul/Next_EventLeeApp">Visit Repo</a></td>
+        </tr>
+
+        <!-- FULL STACK MOBILE APPS -->
+        <tr>
+            <td colspan="4" style="background-color:#43A047; color:white; font-weight:bold; text-align:left; font-size:1.1em;">
+                📱 Full Stack Mobile Apps
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#ecf0f1; font-weight:bold;">AI_Interview_Platform</td>
+            <td><a href="https://mockly-interview-platform.vercel.app/">Live Link</a></td>
+            <td>Next.js, Firebase, Tailwind CSS, Vapi AI, Shadcn/UI, Google Gemini, Zod</td>
+            <td><a href="https://github.com/AliDurul/Mockly_Interview_Platform">Visit Repo</a></td>
+        </tr>
+        <!-- Add more mobile-specific apps here if you have them -->
+
+        <!-- API SERVICES -->
+        <tr>
+            <td colspan="4" style="background-color:#FBC02D; color:white; font-weight:bold; text-align:left; font-size:1.1em;">
+                🔌 API Services
+            </td>
+        </tr>
+        <!-- Example API Service (add your own if available) -->
+        <!--
+        <tr>
+            <td style="background-color:#ecf0f1; font-weight:bold;">Your_API_Service</td>
+            <td>—</td>
+            <td>Node.js, Express, MongoDB</td>
+            <td><a href="#">Visit Repo</a></td>
+        </tr>
+        -->
+
+        <!-- JS PROJECTS -->
+        <tr>
+            <td colspan="4" style="background-color:#FF7043; color:white; font-weight:bold; text-align:left; font-size:1.1em;">
+                💻 JS Projects
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color:#f9f9f9; font-weight:bold;">Bank-Landing-Page</td>
+            <td><a href="https://lee-react-hoobank.vercel.app/">Live Link</a></td>
+            <td>React, JavaScript, Tailwind CSS, HTML</td>
+            <td><a href="https://github.com/AliDurul/React_HooBank">Visit Repo</a></td>
+        </tr>
+        <!-- Add more JS projects here -->
+    </tbody>
+</table>
     
   <table style="width:100%; border-collapse: collapse; text-align: left;">
         <thead>
@@ -75,10 +168,6 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
             </tr>
         </thead>
         <tbody>
-         <tr>
-<td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_ERP_System </td>
-               
-         </tr>
           <tr>
                 <td style="padding: 12px; font-weight: bold; background-color: #ecf0f1;"> # FullStack_ERP_System </td>
                 <td style="padding: 12px; background-color: #ecf0f1;">
