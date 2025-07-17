@@ -48,10 +48,10 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
         <!-- FULL STACK WEB APPS -->
         <tr>
           	<td colspan="4">
-							 <div align="center" style="font-weight:bold; color:white; background-color:#1E88E5; font-size:'2em';">
-      					<b>🖥 Full Stack Web Apps</b>
-    						</div>
-            </td>
+			<div align="center" style="font-weight:bold; color:white; background-color:#1E88E5; font-size:'2em';">
+      				<b>🖥 Full Stack Web Apps</b>
+			</div>
+            	</td>
         </tr>
         <tr>
             <td style="background-color:#ecf0f1; font-weight:bold;">ERP System</td>
@@ -72,7 +72,7 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
             <td><a href="https://github.com/AliDurul/NextJs_StreamLink">Visit Repo</a></td>
         </tr>
 				<tr>
-            <td style="background-color:#ecf0f1; font-weight:bold;">Mockly AI Interview App</td>
+            <td style="background-color:#ecf0f1; font-weight:bold;">Mockly - AI Interview App</td>
             <td><a href="https://mockly-interview-platform.vercel.app/">Live Link</a></td>
             <td>Next.js, Firebase, Tailwind CSS, Vapi AI, Shadcn/UI, Google Gemini, Zod</td>
             <td><a href="https://github.com/AliDurul/Mockly_Interview_Platform">Visit Repo</a></td>
@@ -89,13 +89,19 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
             <td>NextJS 14, Typescript, Clerk, MongoDB, Stripe</td>
             <td><a href="https://github.com/AliDurul/Next_EventLeeApp">Visit Repo</a></td>
         </tr>
+        <tr>
+            <td style="background-color:#f9f9f9; font-weight:bold;">Brightly - AI Teaching</td>
+            <td><a href="https://brightlyy.vercel.app/">Live Link</a></td>
+            <td>NextJS 15, Typescript, Clerk, Supabase, Tailwind, Vapi AI SDK, OpenAI GPT-4</td>
+            <td><a href="https://github.com/AliDurul/Brightly">Visit Repo</a></td>
+        </tr>
         <!-- FULL STACK MOBILE APPS -->
         <tr>
           	<td colspan="4">
-							 <div align="center" style="font-weight:bold; color:white; background-color:#1E88E5; font-size:'2em';">
-      					<b>📱 Full Stack Mobile Apps </b>
-    						</div>
-            </td>
+			<div align="center" style="font-weight:bold; color:white; background-color:#1E88E5; font-size:'2em';">
+      				<b>📱 Full Stack Mobile Apps </b>
+			</div>
+	        </td>
         </tr>
         <tr>
             <td style="background-color:#f9f9f9; font-weight:bold;">Auro App</td>
@@ -115,19 +121,19 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
             <td>React Native, Expo, TypeScript, Node.js </td>
             <td><a href="https://github.com/AliDurul/React-Native-Apps/tree/main/estately-app">Visit Repo</a></td>
         </tr>
+        <!-- Old Javascript & React & Landing Page Projects -->
         <tr>
+		<td colspan="4">
+			<div align="center" style="font-weight:bold; color:white; background-color:#1E88E5; font-size:'2em';">
+	      			<b>🧪🌐🛠️ The Genesis Web Lab: Early Experiments in Code</b>
+	    		</div>
+		</td>
+        </tr>
+	<tr>
             <td style="background-color:#f9f9f9; font-weight:bold;">Portfolio Exp</td>
             <td><a href="https://lee-portfolio-one.vercel.app/">Download Apk</a></td>
             <td>Next, Three.js, Framer Motion, Tailwind CSS </td>
             <td><a href="https://github.com/AliDurul/Modern-Portfolio-Projects/tree/master/Next-FramerMotion">Visit Repo</a></td>
-        </tr>
-        <!-- Old Javascript & React & Landing Page Projects -->
-        <tr>
-          	<td colspan="4">
-							 <div align="center" style="font-weight:bold; color:white; background-color:#1E88E5; font-size:'2em';">
-      						<b>🧪🌐🛠️ The Genesis Web Lab: Early Experiments in Code</b>
-    						</div>
-            </td>
         </tr>
         <tr>
             <td style="background-color:#f9f9f9; font-weight:bold;">HooBank</td>
