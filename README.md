@@ -51,7 +51,7 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
 			<div align="center" style="font-weight:bold; color:white; background-color:#1E88E5; font-size:'2em';">
       				<b>🖥 Full Stack Web Apps</b>
 			</div>
-            	</td>
+            </td>
         </tr>
         <tr>
             <td style="background-color:#ecf0f1; font-weight:bold;">ERP System</td>
@@ -101,6 +101,24 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
             <td>NextJS 15, Typescript, Next-Auht, Postgresql, prisma, Tailwind</td>
             <td><a href="https://github.com/AliDurul/Startup-ly">Visit Repo</a></td>
         </tr>
+        <!-- API SERVICES -->
+		<tr>
+          	<td colspan="4">
+			<div align="center" style="font-weight:bold; color:white; background-color:#1E88E5; font-size:'2em';">
+      			<b>🌐 API Universe</b>
+			</div>
+            </td>
+        </tr>
+		<tr>
+            <td style="background-color:#f9f9f9; font-weight:bold;">NotesVerb Microservice</td>
+            <td colspan="2">Nodejs, Docker, Express, Typescript, Microservice, Http-proxy-middleware</td>
+            <td><a href="https://github.com/AliDurul/Notesverb-Api">Visit Repo</a></td>
+        </tr>
+		<tr>
+            <td style="background-color:#f9f9f9; font-weight:bold;">Blog Platform Microservice with event bus arch.</td>
+            <td colspan="2">Nodejs, Docker, Express, Event-Driven Architecture, Microservice, Axios</td>
+            <td><a href="https://github.com/AliDurul/Blog-API-with-event-bus">Visit Repo</a></td>
+        </tr>
         <!-- FULL STACK MOBILE APPS -->
         <tr>
           	<td colspan="4">
@@ -131,7 +149,7 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
         <tr>
 		<td colspan="4">
 			<div align="center" style="font-weight:bold; color:white; background-color:#1E88E5; font-size:'2em';">
-	      			<b>🧪🌐🛠️ The Genesis Web Lab: Early Experiments in Code</b>
+	      			<b>🧪🛠️ The Genesis Web Lab: Early Experiments in Code</b>
 	    		</div>
 		</td>
         </tr>
