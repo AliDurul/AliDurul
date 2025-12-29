@@ -54,10 +54,10 @@ If you ever wanna talk Full Stack stuff, mobile dev adventures, or just geek out
             </td>
         </tr>
         <tr>
-            <td style="background-color:#ecf0f1; font-weight:bold;">ERP System</td>
-            <td><a href="https://strong-concrete-frontend.vercel.app">Live Link</a></td>
-            <td>NextJS, Tailwind, Node-Express.js, PostgreSQL</td>
-            <td><a href="https://github.com/AliDurul/Strong_concrete_Frontend">Visit Repo</a></td>
+            <td style="background-color:#ecf0f1; font-weight:bold;">Customer Management System - Client Link</td>
+            <td><a href="https://client-link.vercel.app/">Live Link</a></td>
+            <td>NextJS, Gmail API, WhatsApp API + Webhooks, AWS S3, Tailwind, Node-Express.js, PostgreSQL </td>
+            <td><a href="#">Private Repo</a></td>
         </tr>
         <tr>
             <td style="background-color:#f9f9f9; font-weight:bold;">Blogly App</td>
